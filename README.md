@@ -9,4 +9,7 @@ To install the tool, clone the repository and run the following command:
 ```
 ruby des2.rb
 ```
+# Expected output
+<img src="des.png" width="400" height="400">
+
 
